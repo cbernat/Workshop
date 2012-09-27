@@ -10,7 +10,8 @@ namespace Demo.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Git (Edited Text)!!!!!!";
+            ViewBag.Message = "Git!!!!!!";
+
 
             return View();
         }
